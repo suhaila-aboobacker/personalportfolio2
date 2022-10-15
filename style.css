@@ -14,6 +14,7 @@ background-color: rgb(12, 12, 12);
 #ab{ 
     border-radius: 10px;
     background: linear-gradient(grey,rgb(224, 147, 224),rgb(207, 61, 61));
+    
   
 }
 img{
@@ -46,6 +47,13 @@ h2:hover{color: white;}
 /* .container-fluid{
     width: 100%;
     height:auto ; */
+.about{
+    background-image: url(./cover1.jpg);
+    background-size: cover ;
+}
+h4{
+    color: #000428;
+
 }
 
 
